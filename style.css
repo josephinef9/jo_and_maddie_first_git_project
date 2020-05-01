@@ -15,3 +15,21 @@ div.developer {
     padding: 6px;
     text-align: center;
   }
+
+div.favorite-foods {
+    width: 25%;
+    border: 4px solid  greenyellow;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+div.favorite-foods-pic{
+    border: 7px solid plum;
+    border-radius: 5px;
+    height: 400px;
+    width: 300px;
+    
+}
